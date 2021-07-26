@@ -125,6 +125,7 @@
     <module>hadoop-shaded-protobuf_3_7</module>
     <module>hadoop-shaded-jaeger</module>
     <module>hadoop-shaded-guava</module>
+    <module>hadoop-shaded-opentelemetry-jaeger-exporter</module>
   </modules>
 
   <build>
